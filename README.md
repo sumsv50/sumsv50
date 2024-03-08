@@ -49,10 +49,10 @@ I studied at HCMUS (Ho Chi Minh University of Science) from 2018 to 2022. During
 
 I love it here so much 🔥
 
-## 🤭 Follow Me
+## 🤭 Follow me
 Would you like to get to know each other?
 
-![follme](https://img.shields.io/badge/follme-FF6541.svg?style=for-the-badge)
+[![follme](https://img.shields.io/badge/follme-FF6541.svg?style=for-the-badge)](https://follme.vercel.app)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:duongvuquocsum@gmail.com)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/duong-sum/)
 [![facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php/?id=100006357846379)
