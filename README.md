@@ -45,7 +45,7 @@ Additionally, I have developed a website called <a href="https://follme.vercel.a
 
 ## 👨‍🎓 Education
 
-I studied at HCMUS (Ho Chi Minh University of Science) from 2018 to 2024. During my time there, I acquired a wealth of invaluable knowledge and forged numerous meaningful friendships
+I studied at HCMUS (Ho Chi Minh University of Science) from 2018 to 2022. During my time there, I acquired a wealth of invaluable knowledge and forged numerous meaningful friendships
 
 I love it here so much 🔥
 
