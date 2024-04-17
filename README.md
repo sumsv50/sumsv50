@@ -42,6 +42,7 @@ Additionally, I have developed a website called <a href="https://follme.vercel.a
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apigee](https://img.shields.io/badge/Apigee-%23CF4647.svg?style=for-the-badge&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![IBMMQ](https://img.shields.io/badge/IBM%20MQ-%235c7bb6.svg?style=for-the-badge&logoColor=white)
 
 ## 👨‍🎓 Education
 
