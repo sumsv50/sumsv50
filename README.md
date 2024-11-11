@@ -36,14 +36,19 @@ Additionally, I have developed a website called <a href="https://follme.vercel.a
 
 ### Cloud Platforms
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Openshift](https://img.shields.io/badge/Openshift-%23CF4647.svg?style=for-the-badge&logo=redhatopenshift&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### Others
+![Openshift](https://img.shields.io/badge/Openshift-%23CF4647.svg?style=for-the-badge&logo=redhatopenshift&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apigee](https://img.shields.io/badge/Apigee-%23CF4647.svg?style=for-the-badge&logoColor=white)
+
+### DevOps
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+### Back-End Integration
 ![IBMMQ](https://img.shields.io/badge/IBM%20MQ-%235c7bb6.svg?style=for-the-badge&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 
 ## 👨‍🎓 Education
 
